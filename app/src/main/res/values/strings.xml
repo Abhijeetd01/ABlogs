@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A Blogs</string>
+    <string name="et_username_hint">Please enter your username</string>
+    <string name="et_password_hint">Enter your password</string>
+    <string name="btn_sign_in">Sign In</string>
+    <string name="btn_register">Register Yourself</string>
+</resources>
